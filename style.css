@@ -9,3 +9,11 @@ body{
        margin: 0 auto;
        padding: 20px;
 }
+main{
+    display: flex;
+}
+article{
+    background-color: white;
+    color: black;
+    text-align: justify;
+}
